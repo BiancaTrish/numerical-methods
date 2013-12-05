@@ -13,7 +13,7 @@ public class Driver {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		// Bianca's comment
 		regulaFalsi r = new regulaFalsi();
 		
 		ArrayList<Float> x0 = new ArrayList<Float>();
