@@ -13,7 +13,7 @@ public class regulaFalsi {
 	ArrayList<Float> y1 = new ArrayList<Float>();
 	ArrayList<Float> y2 = new ArrayList<Float>();
 	
-	
+	// Ivan's cOmMeNt
 	public Float computeY(Float x, ArrayList<Float>given)
 	{
 		Float temp=(float)0;
